@@ -1,4 +1,4 @@
-# COMP4490ProjectReport
+# COMP4490 Final Project
 
 Computer graphics report. Unfortunately, as a sizable amount of code is not mine, but my professor's, and I did not clear distribution rights for it, the only part that I have publicly posted is the report.
 
